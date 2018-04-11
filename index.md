@@ -24,5 +24,5 @@ A Pipe-esc screen saver that looks pretty cool.
 
 
 ### Contact Information
-Seth Curtis Doubek
+Seth Curtis Doubek  
 doubekseth@gmail.com

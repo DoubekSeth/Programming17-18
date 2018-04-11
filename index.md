@@ -7,6 +7,7 @@ This was a project with some of my friends, it is a simple text adventure game t
 [![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NonPointAndClick.png)](https://github.com/DoubekSeth/NonPointAndClick)
 #### Pig Latin Translator
 A simple English to pig latin converter.
+[![Pig Latin Converter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/PigLatin.png)] (https://github.com/DoubekSeth/PigLatin)
 
 #### Area and Volume Calculator
 A text based area and volume calculator that embraces classes 

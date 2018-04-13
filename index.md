@@ -1,4 +1,4 @@
-## Programming I Portfolio 2017-2018
+## Programming I Portfolio 2017-18
 Seth Doubek
 
 ### Projects in Python (3.6.x)

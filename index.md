@@ -17,6 +17,7 @@ A text based area and volume calculator that embraces classes.
 ### Projects in Processing 3
 #### Calculator
 A (somewhat) working calculator that has all of the basics and then some.
+[![Calculator](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/Calculator.png)](https://github.com/DoubekSeth/Calculator)
 
 #### Gold-Converter
 A converter between gold and item stats in League of Legends.

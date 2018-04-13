@@ -5,12 +5,14 @@ Seth Doubek
 #### Non-Point and Click
 This was a project with some of my friends, it is a simple text adventure game that uses keywords. 
 [![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NonPointAndClick.png)](https://github.com/DoubekSeth/NonPointAndClick)
+
 #### Pig Latin Translator
 A simple English to pig latin converter. 
 [![Pig Latin Converter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/PigLatin.png)](https://github.com/DoubekSeth/PigLatin)
 
 #### Area and Volume Calculator
-A text based area and volume calculator that embraces classes 
+A text based area and volume calculator that embraces classes. 
+[![Shape Tester](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ShapeTester.png)](https://github.com/DoubekSeth/ShapeTester)
 
 ### Projects in Processing 3
 #### Calculator

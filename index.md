@@ -21,10 +21,11 @@ A (somewhat) working calculator that has all of the basics and then some.
 
 #### Gold-Converter
 A converter between gold and item stats in League of Legends.
+[![Gold Converter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GoldConverter.png)](https://github.com/DoubekSeth/GoldConverter)
 
 #### Screen Saver
 A Pipe-esc screen saver that looks pretty cool.
-
+[![Screen Saver](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ScreenSaver.png)](https://github.com/DoubekSeth/ScreenSaver)
 
 ### Contact Information
 Seth Curtis Doubek  

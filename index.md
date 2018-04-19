@@ -7,28 +7,28 @@ This was a project with some of my friends, it is a simple text adventure game t
 
 ![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NonPointAndClick.jpg?raw=true)
 
-[![Test](https://github.com/DoubekSeth/NonPointAndClick/blob/master/Images/NonPointAndClick.png)](https://github.com/DoubekSeth/NonPointAndClick)
+[![Test](https://github.com/DoubekSeth/NonPointAndClick/blob/master/Images/NonPointAndClick.png?raw=true)](https://github.com/DoubekSeth/NonPointAndClick)
 
 #### Pig Latin Translator
 A simple English to pig latin converter. 
-[![Pig Latin Converter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/PigLatin.png)](https://github.com/DoubekSeth/PigLatin)
+[![Pig Latin Converter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/PigLatin.png?raw=true)](https://github.com/DoubekSeth/PigLatin)
 
 #### Area and Volume Calculator
 A text based area and volume calculator that embraces classes. 
-[![Shape Tester](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ShapeTester.png)](https://github.com/DoubekSeth/ShapeTester)
+[![Shape Tester](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ShapeTester.png?raw=true)](https://github.com/DoubekSeth/ShapeTester)
 
 ### Projects in Processing 3
 #### Calculator
 A (somewhat) working calculator that has all of the basics and then some.
-[![Calculator](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/Calculator.png)](https://github.com/DoubekSeth/Calculator)
+[![Calculator](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/Calculator.png?raw=true)](https://github.com/DoubekSeth/Calculator)
 
 #### Gold-Converter
 A converter between gold and item stats in League of Legends.
-[![Gold Converter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GoldConverter.png)](https://github.com/DoubekSeth/GoldConverter)
+[![Gold Converter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GoldConverter.png?raw=true)](https://github.com/DoubekSeth/GoldConverter)
 
 #### Screen Saver
 A Pipe-esc screen saver that looks pretty cool.
-[![Screen Saver](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ScreenSaver.png)](https://github.com/DoubekSeth/ScreenSaver)
+[![Screen Saver](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ScreenSaver.png?raw=true)](https://github.com/DoubekSeth/ScreenSaver)
 
 ### Contact Information
 Seth Curtis Doubek  

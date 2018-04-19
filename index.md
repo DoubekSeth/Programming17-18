@@ -6,7 +6,7 @@ Seth Doubek update 3
 #### Non-Point and Click
 This was a project with some of my friends, it is a simple text adventure game that uses keywords. 
 
-![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/NonPointAndClick.png "Title")
+![Non-Point and Click](https://drive.google.com/file/d/1V6ioUi5_-MXX-7qDMfNpQVvTU5Ycooxe/view?usp=sharing)
 
 #### Pig Latin Translator
 A simple English to pig latin converter. 

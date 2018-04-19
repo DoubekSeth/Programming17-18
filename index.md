@@ -5,7 +5,7 @@ Seth Doubek Update 4
 #### Non-Point and Click
 This was a project with some of my friends, it is a simple text adventure game that uses keywords. 
 
-![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NonPointAndClick.jpg)
+![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NonPointAndClick.jpg?raw=true)
 
 [![Test](https://github.com/DoubekSeth/NonPointAndClick/blob/master/Images/NonPointAndClick.png)](https://github.com/DoubekSeth/NonPointAndClick)
 

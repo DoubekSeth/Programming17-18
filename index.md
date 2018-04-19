@@ -5,6 +5,7 @@ Update
 ### Projects in Python (3.6.x)
 #### Non-Point and Click
 This was a project with some of my friends, it is a simple text adventure game that uses keywords. 
+
 ![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NonPointAndClick.png)
 
 #### Pig Latin Translator

@@ -1,11 +1,9 @@
 ## Programming I Portfolio 2017-18  
-Seth Doubek Update 6
+Seth Doubek
 
 ### Projects in Python (3.6.x)
 #### Non-Point and Click
 This was a project with some of my friends, it is a simple text adventure game that uses keywords. 
-
-![Non-Point and Click](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NonPointAndClick.jpg?raw=true)
 
 [![Test](https://github.com/DoubekSeth/NonPointAndClick/blob/master/Images/NonPointAndClick.png?raw=true)](https://github.com/DoubekSeth/NonPointAndClick)
 

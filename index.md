@@ -28,7 +28,8 @@ A Pipe-esc screen saver that looks pretty cool.
 [![Screen Saver](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ScreenSaver.png?raw=true)](https://github.com/DoubekSeth/ScreenSaver)
 
 ### Other Projects
-
+<script type = "text/javascript">
+</script>
 ### Certifications
 All of the languages I am certified in in the state of Utah.
 #### Python

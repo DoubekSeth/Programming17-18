@@ -32,10 +32,10 @@ A Pipe-esc screen saver that looks pretty cool.
 </script>
 ### Certifications
 All of the languages I am certified in in the state of Utah.
-##### Python
-##### Java
-##### C#
-##### C++
+*Python
+*Java
+*C#
+*C++
 
 ### Contact Information
 Seth Curtis Doubek  

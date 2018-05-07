@@ -1,6 +1,3 @@
-<script type = "text/javascript">
-  document.write("Hello World");
-</script>
 ## Programming I Portfolio 2017-18  
 Seth Doubek
 
@@ -29,6 +26,15 @@ A converter between gold and item stats in League of Legends.
 #### Screen Saver
 A Pipe-esc screen saver that looks pretty cool.
 [![Screen Saver](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/ScreenSaver.png?raw=true)](https://github.com/DoubekSeth/ScreenSaver)
+
+### Other Projects
+
+### Certifications
+All of the languages I am certified in in the state of Utah.
+#### Python
+#### Java
+#### C#
+#### C++
 
 ### Contact Information
 Seth Curtis Doubek  

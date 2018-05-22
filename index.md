@@ -30,8 +30,7 @@ A Pipe-esc screen saver that looks pretty cool.
 ### Other Projects
 <script type = "text/javascript">
 </script>
-* 10 Hour Project
-  *https://github.com/DoubekSeth/10HourProject
+* 10 Hour Project: https://github.com/DoubekSeth/10HourProject
 ### Certifications
 All of the languages I am certified in in the state of Utah.
 * Python

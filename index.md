@@ -31,6 +31,7 @@ A Pipe-esc screen saver that looks pretty cool.
 <script type = "text/javascript">
 </script>
 * [10 Hour Project](https://github.com/DoubekSeth/10HourProject)  
+* Check out my Project Euler Account at BlessedRains
 
 ### Certifications
 All of the languages I am certified in in the state of Utah.

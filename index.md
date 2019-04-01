@@ -3,6 +3,25 @@ Seth Doubek
 
 ### Projects in Java
 #### Goal Documenter
+A way to document my CAS Goals, an exploration of APIs, GUIs, and Reading/Writing.
+
+#### Maze Solver
+An algorithm that solves a maze, tested my knowledge of recursion.
+
+#### Game of Life
+My simulation of Conway's Game of Life, tested my knowledge of mulit-dimensional arrays.
+
+#### Bond Reader
+Shows the bond energy between different bonds, all about reading.
+
+#### Radix Sort
+A somewhat decent Radix Sort that put my knowledge of sorting to the test.
+
+#### Stick Game Winner
+This simulation was about logic both internally and externally.
+
+#### Number Formatter
+This was a way to format different numbers, testing inheritance and interfaces.
 
 ### Projects in Python (3.6.x)
 #### Non-Point and Click

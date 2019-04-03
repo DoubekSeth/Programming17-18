@@ -7,6 +7,7 @@ A way to document my CAS Goals, an exploration of APIs, GUIs, and Reading/Writin
 
 #### Maze Solver
 An algorithm that solves a maze, tested my knowledge of recursion.
+(![](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/MazeSolver.png?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/Maze%20Solver)
 
 #### Game of Life
 My simulation of Conway's Game of Life, tested my knowledge of mulit-dimensional arrays.

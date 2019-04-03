@@ -25,7 +25,8 @@ A somewhat decent Radix Sort that put my knowledge of sorting to the test.
 [![RadixSort](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/RadixSort.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/RadixSort)
 
 #### Stick Game Winner
-This simulation was about logic both internally and externally.  
+This simulation was about logic both internally and externally. 
+[![StickGame](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/StickGame.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/Stick%20Game%20Winner)
 
 #### Number Formatter
 This was a way to format different numbers, testing inheritance and interfaces.  

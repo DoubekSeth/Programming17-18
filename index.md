@@ -3,7 +3,9 @@ Seth Doubek
 
 ### Projects in Java
 #### Goal Documenter
-A way to document my CAS Goals, an exploration of APIs, GUIs, and Reading/Writing.
+A way to document my CAS Goals, an exploration of APIs, GUIs, and Reading/Writing.  
+[![GoalDocumenter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/Sheets.png?raw=true)](https://github.com/DoubekSeth/GoalDocumenterIA)  
+[![GoalDocumenter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GoalDocumenter.png?raw=true)](https://github.com/DoubekSeth/GoalDocumenterIA)
 
 #### Maze Solver
 An algorithm that solves a maze, tested my knowledge of recursion.  

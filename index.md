@@ -17,6 +17,8 @@ My simulation of Conway's Game of Life, tested my knowledge of mulit-dimensional
 
 #### Bond Reader
 Shows the bond energy between different bonds, all about reading.
+[![BondReader1](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/BondReader1.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/BondReader)
+[![BondReader2](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/BondReader2.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/BondReader)
 
 #### Radix Sort
 A somewhat decent Radix Sort that put my knowledge of sorting to the test.

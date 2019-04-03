@@ -11,7 +11,9 @@ An algorithm that solves a maze, tested my knowledge of recursion.
 
 #### Game of Life
 My simulation of Conway's Game of Life, tested my knowledge of mulit-dimensional arrays.  
-[![GameOfLife](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GameOfLife1.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/GameOfLife)
+[![GameOfLife1](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GameOfLife1.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/GameOfLife)
+[![GameOfLife2](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GameOfLife2.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/GameOfLife)
+[![GameOfLife3](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GameOfLife3.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/GameOfLife)
 
 #### Bond Reader
 Shows the bond energy between different bonds, all about reading.

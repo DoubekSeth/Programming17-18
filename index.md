@@ -29,6 +29,7 @@ This simulation was about logic both internally and externally.
 
 #### Number Formatter
 This was a way to format different numbers, testing inheritance and interfaces.  
+[![NumberFormatter](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/NumberFormatter.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/NumberFormatter)
 
 ### Projects in Python (3.6.x)
 #### Non-Point and Click

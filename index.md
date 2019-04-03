@@ -10,7 +10,8 @@ An algorithm that solves a maze, tested my knowledge of recursion.
 [![Yes](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/MazeSolver.png?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/Maze%20Solver)
 
 #### Game of Life
-My simulation of Conway's Game of Life, tested my knowledge of mulit-dimensional arrays.
+My simulation of Conway's Game of Life, tested my knowledge of mulit-dimensional arrays.  
+[![GameOfLife](https://github.com/DoubekSeth/Programming17-18/blob/master/Images/GameOfLife1.PNG?raw=true)](https://github.com/DoubekSeth/ProgrammingII/tree/master/GameOfLife)
 
 #### Bond Reader
 Shows the bond energy between different bonds, all about reading.
